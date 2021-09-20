@@ -10,6 +10,11 @@ to be added soon)
 
 If you use the code in this repository for your work, please consider citing:
 ```
-Bibtex entry to be added soon
+@article{mishra2021effectively,
+  title={Effectively Leveraging Attributes for Visual Similarity},
+  author={Mishra, Samarth and Zhang, Zhongping and Shen, Yuan and Kumar, Ranjitha and Saligrama, Venkatesh and Plummer, Bryan},
+  journal={arXiv preprint arXiv:2105.01695},
+  year={2021}
+}
 ```
 
